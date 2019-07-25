@@ -1,0 +1,22 @@
+KICK_ON_SWEAR: true
+KICK_MESSAGE: '&4Swearing is not allowed on this server!'
+EXPLOSION_ON_SWEAR: true
+REPLACE_MESSAGE: false
+BEEP_WORD: false
+COMMAND_ON_SWEAR: warn <player>
+NEW_MESSAGE: I am a poop face!
+list:
+  - fuck
+  - shit
+commands:
+  - /msg
+  - /r
+delays:
+  '/msg':
+    delay: 10
+  '/r':
+    delay: 20
+  'chat':
+    delay: 3
+DELAY_MESSAGE: '&4Вы сможете написать это через: <delay>'
+DELAY_MESSAGE_CHAT: '&4Вы сможете написать это через: <delay>'
