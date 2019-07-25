@@ -18,5 +18,5 @@ delays:
     delay: 20
   'chat':
     delay: 3
-DELAY_MESSAGE: '&4Вы сможете написать это через: <delay>'
-DELAY_MESSAGE_CHAT: '&4Вы сможете написать это через: <delay>'
+DELAY_MESSAGE: '&4You can write this through: <delay>'
+DELAY_MESSAGE_CHAT: '&4You can write this through: <delay>'

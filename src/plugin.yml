@@ -3,7 +3,7 @@ main: net.d3vr.dUralChat.Main
 version: 0.1
 commands:
   duralchat:
-    permission: UralChat.admin
+    permission: dUralChat.admin
 permissions:
   dUralChat.ignore:
     default: op
